@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Hi 👋, I'm whydulls</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
 <p align="center">
@@ -39,6 +39,6 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alexdev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alexdev)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://alexdev.github.io)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yoruu_2)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)](https://github.com/whydays)
