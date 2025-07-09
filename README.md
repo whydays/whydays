@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: **a Next.js project with Tailwind**
 - 🌱 I’m currently learning: **AI integration and GraphQL**
 - 💬 Ask me about: `JavaScript`, `React`, `Node.js`, `Tailwind`
-- 📫 How to reach me: **alexdev@gmail.com**
+- 📫 How to reach me: **dayatullah241203@gmail.com**
 - ⚡ Fun fact: I write clean code and clean coffee mugs ☕
 
 ---
